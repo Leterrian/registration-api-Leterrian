@@ -1,0 +1,6 @@
+@registration_api_Leterrian_HostAddress = http://localhost:5170
+
+GET {{registration_api_Leterrian_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
